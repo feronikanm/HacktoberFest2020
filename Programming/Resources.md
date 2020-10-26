@@ -8,6 +8,14 @@
 
 - [Coursera](https://www.coursera.org/)
 
+- [Udacity](https://www.udacity.com/courses/all)
+
+- [Dicoding](https://www.dicoding.com/)
+
+- [Kotlin](https://kotlinlang.org/docs/reference/)
+
+- [Android](https://developer.android.com/courses/fundamentals-training/toc-v2)
+
 ## Youtube tutorials:
 
 - [Telusko](https://www.youtube.com/user/javaboynavin)
